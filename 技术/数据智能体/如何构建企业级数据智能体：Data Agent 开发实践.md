@@ -1,3 +1,26 @@
+---
+title: "如何构建企业级数据智能体：Data Agent 开发实践"
+date: "2025-10-25"
+author: "DMS技术团队"
+url: "https://mp.weixin.qq.com/s/8mitLQuX01SbgfjAVsMOnQ"
+category: "技术分享"
+tags:
+  - Data Agent
+  - 数据智能体
+  - Agentic AI
+  - 企业级数据分析
+  - NL2SQL
+  - ChatBI
+keywords_zh:
+  - 数据智能体
+  - Data Agent
+  - Agentic AI
+  - 企业级数据分析
+  - 上下文管理
+  - 幻觉抑制
+description: |
+  本文深入探讨了如何构建一款企业级数据分析智能体（Data Agent for Analytics）。文章首先明确了Data Agent的能力边界，将其与ChatBI/NL2SQL进行区分，并阐述了其融合传统BI与高级分析的价值主张。接着，详细剖析了其技术内核，包括深度语义理解、基于知识与记忆的上下文管理、以代码为核心的幻觉抑制策略，以及安全、可扩展的工具使用机制。最后，文章定义了Data Agent所需具备的可靠、可控、可复用的企业级能力，为构建真正能在生产环境中落地的AI Agent提供了实践参考。
+---
 前言
 
 “What I cannot create, I do not understand.”  --  Richard Feynman
@@ -387,7 +410,3 @@ Data Agent
 
 
 面向企业内所有报告依赖数据分析获得业务洞察的用户，提供Agentic for Analytics能力，实现深度、高效的数据探索分析工作，让用户专注于数据价值而非数据处理。
-
-
-
-点击阅读原文查看详情。
